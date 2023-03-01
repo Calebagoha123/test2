@@ -1,3 +1,3 @@
 # test2
-asdfasdfasdfasdfa world! 
+Goodbye! 
 Do you 'Git' it?
