@@ -1,3 +1,3 @@
 # test2
-Bye! 
+Good 
 Do you 'Git' it?
